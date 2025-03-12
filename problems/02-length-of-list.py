@@ -3,6 +3,8 @@
 
 # Write your function here.
 
+def length_list(list, val):
+  return len(list) == val
 
 print(length_list([], 1))   #>  False
 print(length_list([], 0))   #>  True

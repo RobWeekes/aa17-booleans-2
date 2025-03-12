@@ -6,6 +6,8 @@
 
 # Write your function here.
 
+def xor(val1, val2):
+  return 
 
 print(xor(False, False))   #>  False
 print(xor(True, False))   #>  True
